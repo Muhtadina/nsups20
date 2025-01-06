@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722533598 source:e:\nsu ps pre-bootcamp season 19\psam\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
